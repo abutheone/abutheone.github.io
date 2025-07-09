@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Yow # the main title
+title: abutheone # the main title
 
 tagline: ni tagline sementara saya # it will display as the subtitle
 
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://instagram.fkul15-1.fna.fbcdn.net/v/t51.2885-19/328712603_568643988271230_8997973200110861302_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fkul15-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QFKAgjjh2jrReGYsoQzhEgDAYkagDKjUfDY86MMEewyq9AP7xg-Yuw00Zux7TjiLNk&_nc_ohc=kyforQdDl4wQ7kNvwFqC6VA&_nc_gid=5qs_QfG4db4tE1Bl_P_0kQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfStcetfdZwrSGHI-WNcjNno_FDBMbRCoO7a0jB8Fc0Q3A&oe=6873E8F1&_nc_sid=8b3546
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
